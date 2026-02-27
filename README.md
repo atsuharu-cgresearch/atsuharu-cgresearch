@@ -1,52 +1,32 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
+<!--
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+# About Me
+---
+<hr>
 
 - 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
-<br>
 
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+## Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=unity,cpp,cs" />
 <br>
 
-### About Me
-プロフィール文
+### 🎨 Graphics & Shaders
+- **API:** ![OpenGL](https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white) ![DirectX](https://img.shields.io/badge/DirectX-005A9E.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+- **Shaders:** ![GLSL](https://img.shields.io/badge/GLSL-%23444444.svg?style=for-the-badge&logo=opengl&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-%2300599C.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ## About Me
-プロフィール文
+
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+## Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://placehold.jp/450x300.png" />
+  <img alt="github stats" height="170px" src="https://placehold.jp/450x300.png" />
 </div>
-
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
