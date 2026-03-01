@@ -2,77 +2,78 @@
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## About Me
+## 🐈 Profile
 
 春山 篤樹 / Atsuki Haruyama<br>
+九州大学大学院芸術工学府芸術工学専攻メディアデザインコース<br>
 CGの研究室で、日夜研究に没頭しています。
 
-## Featured Research
-私は大学院で、
+## 🔬 Featured Research
 
-[Demo Project (Unity WebGL)](https://atsuharu-cgresearch.github.io/MyResearchDemo/)
+**Dynamic Eye Highlight Deformation via Soft-body Simulation in 3D Anime Character Rendering**<br>
+ — 弾性体シミュレーションを用いた、アニメ風3Dキャラクターモデルの目のハイライトのレンダリング手法
+
+<!--研究のサムネイル-->
+![Research Preview](https://placehold.jp/720x360.png)
+<!--研究デモとGitHubリポジトリのリンク-->
+[![Demo](https://img.shields.io/badge/▶_WebGL_Demo-Play_Now-4CAF50?style=for-the-badge)](https://atsuharu-cgresearch.github.io/MyResearchDemo/)
+[![Repo](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/atsuharu-cgresearch/PositionBasedHighlight)
+
 <br>
-[Source Code (GitHub Repository)](https://github.com/atsuharu-cgresearch/PositionBasedHighlight.git)
 
+## 🔧 Skills
 
-## 🛠 Skills & Technical Expertise
+### Core
+<!--アイコン-->
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=unity,cs,cpp," />
+<br><br>
+<!--バッジ-->
 
-### 🚀 Technical Core
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,cpp,unity,visualstudio,github" />
+![OpenGL](https://img.shields.io/badge/OpenGL-%235586A4.svg?style=flat-square&logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-%23444444.svg?style=flat-square&logo=opengl&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-%2300599C.svg?style=flat-square&logo=visualstudio&logoColor=white)
 
-- **Main Stack:** **Unity / C# / HLSL** (修士研究で使用)
-- **Primary Expertise:**
-  - **GPGPU:** Compute Shaderを用いた物理シミュレーションの実装
-  - **NPR:** 非フォトリアルなシェーディング（セルルック、線画抽出など）の実装
-  - **Optimization:** GPUパイプラインを意識した描画負荷の最適化
+卒業研究・修士研究を通して、既存研究の再現実装や、自身の研究手法の開発に取り組んで参りました。
 
----
+| 領域 | できること |
+| :-- | :-- |
+| **NPR（非写実的レンダリング）** | 主にアニメ風レンダリングのための |
+| **物理シミュレーション** | Position Based Dynamicsによる弾性体シミュレーションやクロスシミュレーション、Smoothed Particle Hydrodynamics, Position Based Fluidsによる流体シミュレーションの実装 |
+| **GPGPU** | Compute Shaderを使った物理シミュレーションのための高速化、近傍探索ハッシュソート |
 
-### 🎨 Graphics & Shaders
-大学時代の研究から現在まで、低レイヤーから高レイヤーまで幅広く触れています。
+### Creative & Generalist Skills
+<img src="https://skillicons.dev/icons?theme=light&perline=7&i=threejs,js,html,css,py,github," />
+<br><br>
 
-- **API:** ![OpenGL](https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white) ![DirectX](https://img.shields.io/badge/DirectX-005A9E.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-- **Shaders:** ![GLSL](https://img.shields.io/badge/GLSL-%23444444.svg?style=for-the-badge&logo=opengl&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-%2300599C.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-  - **卒論実績:** OpenGL/GLSLを用いた既存グラフィックス論文の再現実装
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance_Painter-%24242424.svg?style=flat-square&logo=adobe&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-%239999FF.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-%230696D7.svg?style=flat-square&logo=autodesk&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-%230096D8.svg?style=flat-square&logo=processingfoundation&logoColor=white)
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-%23000000.svg?style=flat-square&logo=derivative&logoColor=white)
+<br>
+プロジェクションマッピングの制作や大学での演習科目を通じて、3D・2Dデザイン・映像編集ツールの基本を一通り習得し、エンジニアリング以外のワークフローにも理解があります。
 
----
+## 🏋️ Activities
 
-### 📦 Creative Tools (Generalist Skills)
-DCCツールやデザインソフトの基本操作が可能で、エンジニアリング以外のワークフローにも理解があります。
+| 時期 | 活動 |
+| :-- | :-- |
+| 2025.12 | SIGGRAPH Asia 2025 Posters 採択＆ポスター発表 |
+| 2024.12 | SIGGRAPH Asia 2024 Posters 採択＆ポスター発表 |
+| 2023.9 | Visual Computing 2023 ポスター発表 |
+| 2022.4 - 2023.5 | 福岡県大野城市 市制50周年記念 プロジェクションマッピング企画 映像製作 |
 
-- **3D Modeling:** ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-- **Design:** ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-%239999FF.svg?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+<br>
 
-## Affiliation
+## 🏫 Affiliation
 
-## ⏳ Timeline
+- 九州大学 大学院芸術工学府 芸術工学専攻 メディアデザインコース（修士課程）
+  - 2026年9月 卒業予定
+  - 2025.10 – 2026.03 休学
+  - 2024年4月 入学
 
-| 時期 | 所属・活動 | 内容・成果 |
-| :--- | :--- | :--- |
-| 2024 - 現在 | 〇〇大学大学院 | **修士研究：** Unity/HLSLを用いたGPGPUシミュレーション |
-| 2024.09 | 学会発表 | 〇〇研究会にてグラフィックス関連の口頭発表 |
-| 2023.03 | 卒業制作 | **OpenGL/GLSL**による描画エンジンの再現実装 |
-| 2021 - 2023 | サークル活動 | Blenderを用いたモデル制作・技術共有会の実施 |
-| 2020.04 | 〇〇大学 入学 | 情報工学専攻、C/C++の基礎を習得 |
-
-
-## 📅 Chronology
-
-- **2024.04 - 現在：〇〇大学大学院 〇〇研究室（修士課程）**
-  - UnityとCompute Shaderを用いた物理シミュレーションの研究に従事。
-  - 学会発表（2024.08）やWebGLデモの公開。
-
-- **2020.04 - 2024.03：〇〇大学 〇〇学部（学部生）**
-  - 卒業研究でOpenGLとGLSLを選択し、基礎的なレンダリング理論を実装。
-  - 映像制作サークルにてAdobeソフトを活用した広報制作を担当。
-
-- **2022.08：ゲームジャム参加**
-  - チーム開発にて、C#を用いた3Dアクションゲームを1週間で制作。
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://placehold.jp/450x300.png" />
-  <img alt="github stats" height="170px" src="https://placehold.jp/450x300.png" />
-</div>
+- 九州大学 芸術工学部 芸術工学科 メディアデザインコース（学士課程）
+  - 2024年3月 卒業
+  - 2020年4月 入学
