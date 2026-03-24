@@ -1,15 +1,15 @@
 # 🐈 I'm Atsuki Haruyama
 - 🎓 **I'm a** Graduate Student at Kyushu Univ.
-- 🔬 **Researching** Graphics & Physics Simulation
+- 🔬 **Researching** Non-Photorealistic Rendering (NPR) & Physics Simulation
 - 💻 **I specialize in** Physics Simulation & High-speed processing via GPGPU
 
 # 🔬 Featured Research
 
-**Dynamic Eye Highlight Deformation via Soft-body Simulation in 3D Anime Character Rendering**<br>
+**Dynamic Eye Highlight Deformation via Soft-body Simulation in 3D Anime Character Rendering (🏆[SIGGRAPH Asia 2025 Posters](https://dlnext.acm.org/doi/10.1145/3757374.3771483))**<br>
 弾性体シミュレーションを用いた、アニメ風3Dキャラクターモデルの目のハイライトの生成手法<br>
 
 <a href="https://atsuharu-cgresearch.github.io/MyResearchDemo/">
-  <img src="https://placehold.jp/720x360.png" alt="Research Preview" width="100%">
+  <img src="https://placehold.jp/1280x720.png" alt="Research Preview" width="100%">
 </a>
 
 [![Demo](https://img.shields.io/badge/▶_WebGPU_Demo-Play_Now-4CAF50?style=for-the-badge)](https://atsuharu-cgresearch.github.io/MyResearchDemo/)
@@ -17,14 +17,13 @@
 
 ## 🔧 Core Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=unity,cs,cpp" />
-<br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=unity,cs,cpp" /> 
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%235586A4.svg?style=flat-square&logo=opengl&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-%23444444.svg?style=flat-square&logo=opengl&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-%2300599C.svg?style=flat-square&logo=visualstudio&logoColor=white)
 
-* **Physics Simulation:** Position Based Dynamics (弾性体, クロス), SPH / PBF (流体)
-* **Rendering & GPGPU:** NPR (非写実的レンダリング), Compute Shaderを用いた処理の高速化, 近傍探索ハッシュソート
-* **Creative Pipeline:** Blender, Substance Painter等を用いた3Dアセット制作、
+* **Physics Simulation:** Position Based Dynamics (弾性体, クロス), Smoothed Particle Hydrodynamics / Position Based Fluids (流体)
+* **Rendering & GPGPU:** NPR (非写実的レンダリング), Compute Shaderを用いた物理シミュレーションの高速化, 近傍探索ハッシュソート
+* **Creative Pipeline:** Blender, Substance Painterを用いたキャラクターモデリング等の3Dアセット制作、AfterEffects, Photoshop, Illustratorを活用した映像制作、TouchDesigner, Processingによるビジュアルプログラミング
 
 ## 🏫 Background & Activities
 
